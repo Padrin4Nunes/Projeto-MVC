@@ -1,9 +1,13 @@
 👨‍💻 Projeto-MVC
 Projeto criado em aula de C# pela UNINOVE, utilizando o VS code com dotnet para montar o código.
 
-⌨ Para rodar o codigo, abra um terminal no vs code e digite:
+⌨ Para rodar o codigo, abra um terminal(console) no vs code e digite:
 
 dotnet run
+
+🧹Para limpar o terminal(console) digite:
+
+clear (ou cls)
 
 🖱 Downloads e Extensões:
 
