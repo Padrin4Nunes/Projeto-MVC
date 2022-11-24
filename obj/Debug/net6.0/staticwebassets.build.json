@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VFdVug5CTq96ohljMeCoajrZAs4RKnIC0T60O7MkTnk=",
+  "Hash": "y8oPN2piep4u5ALVfL3n4Ur1otSiF7FB4+zMQWJXJeM=",
   "Source": "Projeto-MVC",
   "BasePath": "_content/Projeto-MVC",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\cauan\\Documents\\Progamação\\tecnicas de programação\\web\\Projeto-MVC\\wwwroot\\imagens\\adote.jpeg",
+      "SourceId": "Projeto-MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cauan\\Documents\\Progamação\\tecnicas de programação\\web\\Projeto-MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto-MVC",
+      "RelativePath": "imagens/adote.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\adote.jpeg"
     },
     {
       "Identity": "C:\\Users\\cauan\\Documents\\Progamação\\tecnicas de programação\\web\\Projeto-MVC\\wwwroot\\js\\site.js",
